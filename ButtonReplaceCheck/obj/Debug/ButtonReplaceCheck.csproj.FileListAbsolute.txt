@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\bin\Debug\ButtonReplaceCheck.exe.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\bin\Debug\ButtonReplaceCheck.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\bin\Debug\ButtonReplaceCheck.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.Form1.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\ButtonReplaceCheckSln\ButtonReplaceCheck\obj\Debug\ButtonReplaceCheck.pdb
